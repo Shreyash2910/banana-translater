@@ -35,7 +35,7 @@ body {
 }
 
 .nav-brand{
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1rem ;
     font-size: 1.8rem;
     font-style: italic;
 }
@@ -47,6 +47,11 @@ body {
 .navigation a{
     color: var(--off-white);
     text-decoration: none;  
+}
+.discription{
+font-size: small;
+font-style: normal;
+color: #eee;
 }
 
 /* Input and Output Section */
