@@ -53,7 +53,6 @@ body {
 
 #section-input, #section-output{
     padding: 2rem;
-    margin-left: 23rem;
 }
 
 #txt-input, #txt-output{
@@ -68,7 +67,6 @@ body {
 
 #section-button{
     padding: 0rem 2rem;
-    margin-left: 23rem;
 }
 
 .btn-translate-div{
