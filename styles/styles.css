@@ -24,7 +24,9 @@ body {
     display: flex;
 
 }
-
+.image{
+    margin-left: 2rem;
+}
 /* Navbar */
 
 .navigation{
@@ -74,7 +76,7 @@ color: #eee;
 /* Button Section */
 
 #section-button{
-    padding: 0rem 2rem;
+    padding: 0rem 6rem;
 }
 
 .btn-translate-div{
@@ -82,14 +84,13 @@ color: #eee;
 }
 
 #btn-translate{
-    padding: 1rem;
+    padding: 2rem;
+    margin: 3rem;
     border-radius: 7%;
     color: black;
     background-color: var(--medium-brown);
     border-color: black;
     font-family: 'Permanent Marker', cursive;
-    
-    
 }
 
 .btn{
